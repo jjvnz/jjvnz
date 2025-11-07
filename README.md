@@ -1,48 +1,70 @@
 <div align="center">
 
-# Hi, I'm Jair Villalobos 👋  
-### Backend Engineer | Go & Python Specialist | Microservices & Cloud Architecture
+# 👋 Jair Villalobos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+3%2B+Years+Experience;Go+%7C+Python+%7C+AWS+%7C+GCP;FinTech+%7C+Telecom+%7C+CPaaS" alt="Typing SVG" />
+### Building High-Performance Systems | Go · Python · Cloud Architecture
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+%7C+Cloud+Native;FinTech+%7C+Real-time+Systems" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlynz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlynzdev@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 What I Do
+
+I architect and build **scalable backend systems** that handle real-world complexity. From processing thousands of financial transactions to powering real-time communication platforms, I focus on creating solutions that are **fast, reliable, and maintainable**.
+
+**Current Stack:** Go, Python, AWS, GCP, Kubernetes, PostgreSQL, MongoDB
+
+---
+
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-### 🔷 Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🗄️ Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Featured Work
+
+### 💳 FinTech Payment Systems
+Building microservices for **Tigo Money** at BYONDIT — processing real-time financial transactions with AWS serverless architecture. High-volume, low-latency, zero-compromise reliability.
+
+**Stack:** Go · Python · AWS Lambda · DynamoDB · KrakenD
+
+### 📡 CPaaS Communication Platform
+Developed cloud-native APIs for **IPCOM** — enabling SMS, chat, and voice services at scale. Real-time WebSocket connections, microservices on GKE, production-grade availability.
+
+**Stack:** Go · GCP · Kubernetes · PostgreSQL · Docker
+
+### 🤖 ML Text Classification
+Built **StudentComplaintsClassifier** — NLP system using DistilBERT for automated complaint categorization. FastAPI deployment with Docker.
+
+**Stack:** Python · Transformers · FastAPI · Docker
+
+### 📱 Personal Finance App
+Created **DineroSync** — Flutter mobile app for expense tracking with real-time updates and data visualization.
+
+**Stack:** Flutter · Dart · SQLite
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   
@@ -53,91 +75,26 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🔧 Core Skills
 
-### 🔥 Professional Experience
+**Backend Engineering**  
+Microservices · REST APIs · WebSockets · Event-Driven Architecture · High Availability
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Cloud & Infrastructure**  
+AWS (Lambda, ECS, DynamoDB) · GCP (GKE, Cloud Run) · Docker · Kubernetes · Terraform · CI/CD
 
-#### 🏦 FinTech Microservices @ BYONDIT
-**Go · Python · AWS · PostgreSQL**
+**Databases & Caching**  
+PostgreSQL · MongoDB · Redis · DynamoDB · Query Optimization
 
-High-performance financial transaction processing for Tigo Money:
-- 💸 Real-time payment processing  
-- ☁️ AWS serverless architecture  
-- 🏛️ Banking core integrations  
-- 🚀 High-availability systems  
-
-**Tech:** Go, FastAPI, AWS Lambda, DynamoDB, KrakenD
-
-</td>
-<td width="50%" valign="top">
-
-#### 📞 CPaaS Platform @ IPCOM  
-**Go · GCP · Kubernetes · MongoDB**
-
-High-availability communications platform:
-- 💬 Real-time WebSocket APIs  
-- 📱 SMS/Chat/Voice services  
-- 🏗️ Microservices architecture  
-- ☁️ Cloud-native deployment  
-
-**Tech:** Go, GKE, PostgreSQL, Docker, GitHub Actions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 StudentComplaintsClassifier
-**Python · DistilBERT · FastAPI**
-
-ML system for university complaint classification:
-- 🧠 NLP text classification  
-- 🌐 REST API deployment  
-- 📊 Model training pipeline  
-- 🎓 Educational tech solution  
-
-**Tech:** Python, Transformers, FastAPI, Docker
-
-</td>
-<td width="50%" valign="top">
-
-#### 💰 DineroSync Mobile App
-**Flutter · Dart · SQLite**
-
-Personal finance management app:
-- 📈 Income/expense tracking  
-- ⚡ Real-time balance updates  
-- 📊 Data visualization  
-- 📱 Cross-platform mobile  
-
-**Tech:** Flutter, Dart, SQLite
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlynz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlynzdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlynz)
-
-### 💼 Open to Backend Engineer opportunities!
-
-</div>
+**Languages & Frameworks**  
+Go (Gin) · Python (FastAPI) · JavaScript · Dart (Flutter)
 
 ---
 
 <div align="center">
 
-**Building scalable systems that power real-world applications** 🚀
+### 💼 Open to interesting backend challenges
+
+**Let's build something that scales** 🚀
 
 </div>
