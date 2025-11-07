@@ -201,10 +201,8 @@ Cross-platform mobile app for expense tracking with real-time updates and intera
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jjvnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjvnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjvnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
