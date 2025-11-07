@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jair%20Villalobos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 Backend Engineer | Cloud Architect | System Designer
+### 🚀 Backend Engineer | Go & Python | Microservices & Cloud
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Go+%7C+Python+%7C+Cloud+Native;FinTech+%7C+Real-time+APIs;Microservices+Architecture" alt="Typing SVG" />
 
