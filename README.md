@@ -174,13 +174,13 @@ NLP-powered system using DistilBERT for automated complaint categorization with 
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-FF7139?style=for-the-badge&logo=hive&logoColor=white"/>
 
 **DineroSync**
 
 Cross-platform mobile app for expense tracking with real-time updates and interactive data visualization.
 
-`Flutter` `Dart` `SQLite`
+`Flutter` `Dart` `Hive`
 
 </div>
 
