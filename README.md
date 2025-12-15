@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan J. %20Villalobos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan J %20Villalobos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ### 🚀 Backend Developer (Go/Python) | FinTech & CPaaS Specialist
 
