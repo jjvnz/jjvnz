@@ -1,6 +1,14 @@
 <div align="center">
-<img width="1408" height="644" alt="bggi" src="https://github.com/user-attachments/assets/06e35dd4-289e-4479-808c-033c417a17a9" />
 
+<div align="center">
+  <div style="width: 100%; max-width: 1280px; height: 320px; overflow: hidden; border-radius: 12px;">
+    <img 
+      src="https://github.com/user-attachments/assets/3d052e15-d649-451a-bc47-57e31a6b49d7" 
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
+      alt="Backend Banner"
+    />
+  </div>
+</div>
   <p>
     <a href="https://linkedin.com/in/jjvnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://jair-villalobos-portfolio.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
