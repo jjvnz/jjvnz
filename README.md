@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ADD8&height=200&section=header&text=Jair%20Villalobos&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+<img width="1408" height="644" alt="bggi" src="https://github.com/user-attachments/assets/06e35dd4-289e-4479-808c-033c417a17a9" />
 
   <p>
     <a href="https://linkedin.com/in/jjvnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
