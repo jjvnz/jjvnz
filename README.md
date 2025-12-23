@@ -15,7 +15,7 @@
 
 ## 🔥 Featured Repositories
 
-### 🚀 [StudentComplaintsClassifier](https://github.com/jjvnz/StudentComplaintsClassifier)
+### 🚀 [student-complaints-classifier](https://github.com/jjvnz/student-complaints-classifier)
 NLP-powered system using DistilBERT for automated complaint categorization with REST API.
 ```bash
 ├── Python · FastAPI · Transformers
