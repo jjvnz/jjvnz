@@ -1,13 +1,7 @@
 <div align="center">
 
-<div align="center">
-  <div style="width: 100%; max-width: 1280px; height: 320px; overflow: hidden; border-radius: 12px;">
-    <img 
-      src="https://github.com/user-attachments/assets/3d052e15-d649-451a-bc47-57e31a6b49d7" 
-      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
-      alt="Backend Banner"
-    />
-  </div>
+![BN](https://github.com/user-attachments/assets/d8cf5275-a13f-4686-8143-fb275360fe07)
+
 </div>
   <p>
     <a href="https://linkedin.com/in/jjvnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
