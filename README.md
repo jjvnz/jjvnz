@@ -1,80 +1,53 @@
+# ⚡ Jair Villalobos
+### Senior Backend Engineer | Cloud Architect
 
-  <p>
-    <a href="https://linkedin.com/in/jjvnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://jair-villalobos-portfolio.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-    <a href="mailto:jjvnzdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 👤 Sobre mí
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>¡Hola! Soy <strong>Jair</strong>, un apasionado del desarrollo <strong>Backend</strong> y la arquitectura de sistemas escalables. Me enfoco en escribir código limpio, eficiente y fácil de mantener.</p>
-      <ul>
-        <li>🚀 Especializado en <strong>Go</strong> y <strong>Python</strong>.</li>
-        <li>☁️ Experiencia con microservicios y despliegue en <strong>AWS</strong>.</li>
-        <li>🎯 Enfocado en optimización de bases de datos y sistemas de alto tráfico.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jjvnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 Impacto en Números
+*Lo que mis sistemas logran en producción:*
+
+| **Latencia / Optimización** | **Disponibilidad** | **Rendimiento ETL** |
+| :---: | :---: | :---: |
+| <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Legacy','Optimized'],datasets:[{label:'ms',data:[1200,780],backgroundColor:['%23d6d3d1','%23ea580c']}]}}" width="160"> | <img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[99.9,0.1],backgroundColor:['%231c1917','%23f5f5f4']}]},options:{plugins:{datalabels:{display:false}}}}" width="110"> | <h2 style="color:#ea580c; margin:0;">+890K</h2> |
+| **-35%** en consultas críticas | **99.9% Uptime** (SLA) | Registros / < 60s |
+
+---
+
+## 🛠️ Lo que estoy construyendo
+*Proyectos seleccionados por complejidad técnica:*
+
+### 🏗️ [Data Warehouse Gen](https://github.com/jjvnz/dw-generator)
+> **Problema:** Procesamiento lento de grandes volúmenes de datos.
+> **Solución:** Pipeline concurrente en **Go** que reduce tiempos de carga masiva de minutos a segundos.
+
+### 🧠 [Complaints Classifier](https://github.com/jjvnz/student-complaints)
+> **Problema:** Clasificación manual ineficiente de tickets.
+> **Solución:** Microservicio en **FastAPI + NLP** para automatizar el ruteo de peticiones.
+
+### 📱 [DineroSync](https://github.com/jjvnz/dinerosync)
+> **Stack:** Flutter + Hive. Arquitectura offline-first enfocada en UX y persistencia local.
+
+---
+
+## 📑 Resumen de Trayectoria
+*Donde he dejado huella:*
+
+* **Consultor Senior (Freelance):** Arquitectura de microservicios y optimización de costos AWS.
+* **IPCOM:** Ingeniería de Backend enfocada en CPaaS y optimización de bases de datos.
+* **BYONDIT (Tigo Money):** Desarrollo de infraestructura para Fintech de alto tráfico.
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,aws,kubernetes,docker,postgres,mongodb,redis,fastapi,flutter,git,linux&perline=6" />
-</div>
-
----
-
-### 🏗️ Proyectos Destacados
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💰 <a href="https://github.com/jjvnz/dinerosync">DineroSync</a></h4>
-      <p>App de finanzas con arquitectura <strong>offline-first</strong>.</p>
-      <code>Flutter</code> <code>Dart</code> <code>Hive</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/jjvnz/student-complaints">Complaints Classifier</a></h4>
-      <p>Sistema NLP con <strong>DistilBERT</strong> para categorización automática.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/jjvnz/dw-generator">Data Warehouse Gen</a></h4>
-      <p>ETL de alto rendimiento: <strong>+890K registros</strong> en &lt;60s.</p>
-      <code>Go</code> <code>Azure SQL</code> <code>Concurrency</code>
-    </td>
-    <td width="50%" align="center">
-      <p><b>¿Quieres ver más?</b></p>
-      <a href="https://github.com/jjvnz?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver_Repositorios-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estadísticas de Lenguajes
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjvnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjvnz&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-blueviolet?style=flat-square" />
+  <p><strong>¿Hablamos de tecnología?</strong></p>
+  <a href="mailto:jjvnzdev@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/jjvnz">LinkedIn</a> • 
+  <a href="https://github.com/jjvnz">Proyectos</a>
 </div>
