@@ -1,8 +1,4 @@
-<div align="center">
 
-![BN](https://github.com/user-attachments/assets/d8cf5275-a13f-4686-8143-fb275360fe07)
-
-</div>
   <p>
     <a href="https://linkedin.com/in/jjvnz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://jair-villalobos-portfolio.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
