@@ -86,33 +86,3 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjvnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjvnz&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Focusing on Go, Cloud-Native Architectures, and System Performance.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjvnz)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 *"Optimizing code at the runtime level to solve business problems"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jjvnz&color=60a5fa&style=for-the-badge)
-  
-</div>
