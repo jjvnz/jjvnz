@@ -1,5 +1,5 @@
 # Jair Villalobos | Backend Engineer
 
-<img width="400" height="600" alt="banner" src="https://github.com/user-attachments/assets/69fd7362-f681-45fd-b016-a236ec5ebc29" />
+<img width="1536" height="370" alt="banner" src="https://github.com/user-attachments/assets/943e0f30-845d-4236-8f60-ab7c1a91165d" />
 
 [LinkedIn](https://linkedin.com/in/jjvnz) | [GitHub](https://github.com/jjvnz) | [Email](mailto:jjvnz.dev@gmail.com)
